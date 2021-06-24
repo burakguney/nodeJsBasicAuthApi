@@ -1,3 +1,3 @@
-# node-basic-authentication-api
+# nodeJsBasicAuthApi
 
 NodeJS Basic HTTP Authentication API
